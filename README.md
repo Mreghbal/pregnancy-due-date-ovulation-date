@@ -36,11 +36,6 @@ Please note that this calculation assumes a 28-day cycle as the default. If the 
    cd pregnancy-due-date-ovulation-date
    ```
 
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## How to Run
 🏃‍♀️ Follow these steps to run the Pregnancy Due Date Calculator:
 
@@ -48,7 +43,7 @@ Please note that this calculation assumes a 28-day cycle as the default. If the 
 
 2. Navigate to the project directory:
    ```
-   cd pregnancy-due-date-calculator
+   cd pregnancy-due-date-ovulation-date
    ```
 
 3. Run the script:
