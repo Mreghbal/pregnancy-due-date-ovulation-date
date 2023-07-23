@@ -28,7 +28,7 @@ Please note that this calculation assumes a 28-day cycle as the default. If the 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/pregnancy-due-date-calculator.git
+   git clone https://github.com/Mreghbal/pregnancy-due-date-ovulation-date.git
    ```
 
 2. Navigate to the project directory:
